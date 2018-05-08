@@ -1,0 +1,9 @@
+[submodule "RaspBioloid-MoPi-msgs"]
+	path = RaspBioloid-MoPi-msgs
+	url = git@github.com:roncapat/RaspBioloid-MoPi-msgs.git
+[submodule "RaspBioloid-MoPi"]
+	path = RaspBioloid-MoPi
+	url = git@github.com:roncapat/RaspBioloid-MoPi.git
+[submodule "RaspBioloid-ControlPanel"]
+	path = RaspBioloid-ControlPanel
+	url = https://github.com/roncapat/RaspBioloid-ControlPanel.git
