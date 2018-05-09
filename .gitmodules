@@ -10,3 +10,6 @@
 [submodule "RaspBioloid-MoPi-filters"]
 	path = RaspBioloid-MoPi-filters
 	url = git@github.com:roncapat/RaspBioloid-MoPi-filters.git
+[submodule "RaspBioloid-Motors"]
+	path = RaspBioloid-Motors
+	url = git@github.com:lapo5/RaspBioloid-Motors.git
