@@ -7,3 +7,6 @@
 [submodule "RaspBioloid-ControlPanel"]
 	path = RaspBioloid-ControlPanel
 	url = https://github.com/roncapat/RaspBioloid-ControlPanel.git
+[submodule "RaspBioloid-MoPi-filters"]
+	path = RaspBioloid-MoPi-filters
+	url = git@github.com:roncapat/RaspBioloid-MoPi-filters.git
