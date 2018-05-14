@@ -13,3 +13,6 @@
 [submodule "RaspBioloid-Motors"]
 	path = RaspBioloid-Motors
 	url = git@github.com:lapo5/RaspBioloid-Motors.git
+[submodule "dynamixel-workbench"]
+	path = dynamixel-workbench
+	url = git@github.com:roncapat/dynamixel-workbench.git
