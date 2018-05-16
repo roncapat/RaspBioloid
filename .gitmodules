@@ -16,3 +16,15 @@
 [submodule "dynamixel-workbench"]
 	path = dynamixel-workbench
 	url = git@github.com:roncapat/dynamixel-workbench.git
+[submodule "imu_tools"]
+	path = imu_tools
+	url = git@github.com:ccny-ros-pkg/imu_tools.git
+[submodule "phidgets_drivers"]
+	path = phidgets_drivers
+	url = https://github.com/ros-drivers/phidgets_drivers
+[submodule "dynamixel-workbench-msgs"]
+	path = dynamixel-workbench-msgs
+	url = https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs
+[submodule "ros_comm"]
+	path = ros_comm
+	url = git@github.com:ros/ros_comm.git
