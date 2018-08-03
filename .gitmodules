@@ -6,7 +6,7 @@
 	url = git@github.com:roncapat/RaspBioloid-MoPi.git
 [submodule "RaspBioloid-ControlPanel"]
 	path = RaspBioloid-ControlPanel
-	url = https://github.com/roncapat/RaspBioloid-ControlPanel.git
+	url = git@github.com:roncapat/RaspBioloid-ControlPanel.git
 [submodule "RaspBioloid-MoPi-filters"]
 	path = RaspBioloid-MoPi-filters
 	url = git@github.com:roncapat/RaspBioloid-MoPi-filters.git
@@ -28,3 +28,12 @@
 [submodule "DynamixelSDK"]
 	path = DynamixelSDK
 	url = git@github.com:ROBOTIS-GIT/DynamixelSDK.git
+[submodule "PiModules"]
+	path = PiModules
+	url = git@github.com:modmypi/PiModules.git
+[submodule "RaspBioloid-Pico-msgs"]
+	path = RaspBioloid-Pico-msgs
+	url = git@github.com:roncapat/RaspBioloid-Pico-msgs.git
+[submodule "RaspBioloid-Pico"]
+	path = RaspBioloid-Pico
+	url = git@github.com:roncapat/RaspBioloid-Pico.git
