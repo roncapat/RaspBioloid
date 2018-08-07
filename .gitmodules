@@ -1,13 +1,13 @@
-[submodule "RaspBioloid-ControlPanel"]
+[submodule "control-panel"]
 	path = control-panel
 	url = https://github.com/roncapat/RaspBioloid-ControlPanel.git
-[submodule "RaspBioloid-Motors"]
+[submodule "motors"]
 	path = motors
 	url = https://github.com/lapo5/RaspBioloid-Motors.git
-[submodule "RaspBioloid-Pico-msgs"]
+[submodule "pico-msgs"]
 	path = pico-msgs
 	url = https://github.com/roncapat/RaspBioloid-Pico-msgs.git
-[submodule "RaspBioloid-Pico"]
+[submodule "pico"]
 	path = pico
 	url = https://github.com/roncapat/RaspBioloid-Pico.git
 [submodule "pico-srvs"]
