@@ -1,12 +1,21 @@
 [submodule "RaspBioloid-ControlPanel"]
-	path = RaspBioloid-ControlPanel
+	path = control-panel
 	url = https://github.com/roncapat/RaspBioloid-ControlPanel.git
 [submodule "RaspBioloid-Motors"]
-	path = RaspBioloid-Motors
+	path = motors
 	url = https://github.com/lapo5/RaspBioloid-Motors.git
 [submodule "RaspBioloid-Pico-msgs"]
-	path = RaspBioloid-Pico-msgs
+	path = pico-msgs
 	url = https://github.com/roncapat/RaspBioloid-Pico-msgs.git
 [submodule "RaspBioloid-Pico"]
-	path = RaspBioloid-Pico
+	path = pico
 	url = https://github.com/roncapat/RaspBioloid-Pico.git
+[submodule "pico-srvs"]
+	path = pico-srvs
+	url = https://github.com/roncapat/RaspBioloid-Pico-srvs.git
+[submodule "motors-srvs"]
+	path = motors-srvs
+	url = https://github.com/roncapat/RaspBioloid-Motors-srvs.git
+[submodule "motors-msgs"]
+	path = motors-msgs
+	url = https://github.com/roncapat/RaspBioloid-Motors-msgs.git
